@@ -1,0 +1,5 @@
+Script iniciado com sucesso.
+Data e hora da execucao: 2023-12-11 16:47:11.444465
+Tempo de inicio: 2023-12-11 16:47:09.843702
+Tempo de fim: 2023-12-11 16:47:11.443466
+Duracao da execucao: 1.60 segundos

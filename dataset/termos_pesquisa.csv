@@ -1,0 +1,98 @@
+id,hash_id,searched,term
+17,1286a27789cd4b15bc9000acef7774f2,true,Cross-Platform Development
+46,36c6189116b748cca2f1b6e2b6d0fd3f,true,Cloud Computing Insights
+50,832954f4e6a24d70a8a41f2e0e662fdc,true,Data Visualization Techniques
+1,334820bd20cf4e42b9c0ba515d77045c,true,Web Development Basics
+2,349a3b175d3d466aad372bc8206edc46,true,Data Structures Explained
+3,d1178ea5da854024a0829d5d6bc2301f,true,Algorithm Design Techniques
+4,c29f827c33874e36943c9633bd826430,true,Machine Learning Fundamentals
+5,f7b9ce3576ff47a7b948e26122821084,true,DevOps Best Practices
+6,d752906f5f154b029ab73e08b83bda1b,true,Full Stack Development
+7,1e06f03f642a45f79849ca1e9a0b08c7,true,Cloud Computing
+8,8ebea32a7c7143629eea2c25203de623,true,Git and GitHub Workflow
+9,6a3dd456263a4963a0c905788157a59b,true,Version Control in Git
+10,2bbcc2cd1816433b80517d78da21b235,true,Social Media API Integration
+11,7b3bf9fa655c475b899ca12095144fea,true,RESTful API Development
+12,8605c59c3d3f4d4aad9199d93334ac02,true,GraphQL API Development
+13,c87aa8c3237c4e0db7704022d0b2435d,true,UI/UX Design Principles
+14,1ea4e8d3ca5741a9914ead3dfb58150f,true,Data Visualization Tools
+15,05642b820a6f4548b29bbb517c059cf3,true,Progressive Web Apps (PWA)
+18,18715d16f4314c4dbce6a381e4f4996a,true,Software Design Patterns
+19,322630f41f754ca98a1e1c9a63af3ea8,true,Test-Driven Development
+20,9bb81bfd687f4f8ba68eb6847b8646b7,true,Serverless Computing
+21,a6f7140dfb634e43ab5b0258545d3778,true,Databases and ORM
+22,5803f28ebd96496eb78d95b42d6f2a8c,true,Cloud-Native Applications
+23,75f8eee671174d70a00cbb1eac5bd0b4,true,Microservices Architecture
+24,6d36bb3801f14430b6be20e64adecbe2,true,Virtual Reality Development
+25,4a28da7f23f44a73a9dbfa99fa7bcc40,true,Augmented Reality Development
+26,85ef38e3dfb74cb8982b7b5183f1a003,true,Natural Language Processing
+27,cbe5d0081d664c55b6510504e3f50d11,true,Reinforcement Learning
+28,4743f41fd8cb4420a802229aabd382f6,true,Big Data Analytics
+29,8f14385822254a68807add091b19be3a,true,Data Warehousing Solutions
+30,fe925385210b4ff1affc0dcd38eae2ed,true,Cross-Browser Compatibility
+31,ab335940adfe41a8a791b5abd7f5527e,true,Deep Reinforcement Learning
+32,c5e062af4553497298447f185557631e,true,Software Containers in Depth
+33,49f5c34084094aa6bf5f1c7f443ba461,true,Data Science Pipelines
+34,29ef9aefe2c24ecfad15861cc484c5a7,true,Natural Language Generation
+35,4ace0d4f8b5f4fcda3b7fa8bc06a8702,true,Data Warehousing Technologies
+36,77170b12ad07461083b1a38292326643,true,Beginner Coding Tips
+37,ac48064348d14b29a3234456eb39dc8a,true,Intermediate Programming Concepts
+38,88a3a4c6916842cdb3e7319b9e868053,true,Advanced Software Development
+39,5d06327cef8c46a5b7c2ff7645629da1,true,Algorithmic Problem Solving
+40,c270c681dffe402faff3dfc5990c79ad,true,Machine Learning Explained
+41,340c575fc00244a88ed323ffcd19dfe7,true,Artificial Intelligence Projects
+42,c37667adc6e04962b6ab30f6bbf13336,true,Backend Development Strategies
+43,75857a5239d94debbf13c34e55e06070,true,Software Architecture Discussions
+44,04b0d938734d40078510d689be67a56e,true,Data Science Explorations
+47,ea3b79cdd3e540ff9bc30726a461f48c,true,Version Control Tutorials
+48,a0bff9a581b04ca0bfc0c63244c98a75,true,Programming for Electronics
+51,bbd4a00a253349fd9fe0bf5ee3ceafaa,true,Data Analysis Tools
+52,fd224146d8404c89adb2b0b8bdb44cab,true,Software Design Concepts
+53,9b6562f7ff914746beb294c3396d3a2c,true,Code Review Guidelines
+54,f4b7fe185759467ca175047391e83680,true,Desktop Software Development
+55,045145033057471692c7872d0f0cf033,true,Serverless Architecture
+56,13da91ed1386430bb8d76682d75e1fd0,true,Advanced Programming Concepts
+58,c2d3611bc4b14a39a10133bf477b0492,true,Data Streaming Solutions
+59,ce12b3c26cbd49d7bbf2d5ea8a06a0ac,true,Web Services Exploration
+60,11c80202ed3a4cffa004c7392a87aff1,true,Data Cleaning Strategies
+61,99982b3e03104ddf827b5f353da2c629,true,Concurrency and Parallelism
+62,d2fc8a8102be4d228215d7d8d6b07f13,true,Coding Practices
+63,31795f4c556840e2944181ccc16c1092,true,Design Patterns Insights
+64,6d6b589964264bf99d2330e479561303,true,Automation and Scripting
+65,ac1a0dd014f445519f21c23807d80011,true,Software Testing Strategies
+68,48a8a70bfa6440cb9129dc5f1741bfae,true,Web Development Fundamentals
+70,2738ad9c8bed45b596f91c3638b86df4,true,Mobile App Development Insights
+79,5c79d497e2b2406d93c656f991056256,true,Mobile App Development
+81,54ab7180793f4e649f9de3938b450b27,true,Continuous Integration (CI)
+82,8216e83721954bbb988a48bb4240ef4f,true,Data Analytics Tools
+83,77b0ce3d1ea64929b7d774c0b5b631d5,true,Mobile App Design
+88,6a6a4d589f494a5ebf5d301b540c5c7b,true,Microservices Insights
+91,2e925f86aa704a84bcb407257fdbce7a,true,Big Data Concepts
+92,1fae6cf1b6a74159a840fc8c642e91fa,true,Data Warehousing Strategies
+93,d0e729a3dcd643a38fe0b664f506f7e1,true,Realtime Database Techniques
+95,8f0b4243021242aab9a6713e52e42f62,true,Continuous Delivery (CD)
+96,fef8950cb44146e59c7a6b811f0b10c2,true,Container Orchestration
+97,711e35eccd214984acf70de61e44de55,true,Cloud Functions Explained
+99,35909f42166f44839db6ed2e59379aa5,true,CI/CD Pipeline Insights
+100,f6ed58b91b0e4eb389073b902033e780,true,Web Development Strategies
+101,4eae6c3ca15c45e4a26fbc07ebdd500e,true,Language Processing Techniques
+102,ec3361639b1342f68e063e5c77ac2d0c,true,Data Analysis Explained
+107,9e36bf62d91c4000831ef03f8585786b,true,Data Transformation Techniques
+108,3c140d338de74f7cb52e7099f9528335,true,Data Mining Insights
+110,08f29ca3eefd46c59fb3fd16e1ebd40d,true,Computer Science
+111,3797679947f241e8ac023c7abcbc4573,true,Information Technology
+112,63fca81d4e54405d86abe89fe2c2383f,true,Software Engineering
+15305,433edfb5410e4d0599b1991a285889ee,false,Computer Engineering
+15306,18d1cf42b8ad4d4881338d552f382d07,false,Data Science
+15307,46fd6f689a1e46f1a7c5bdb777ed74d4,false,Artificial Intelligence
+15308,303b18d9e21d48d2b26bad378984585d,false,Web Development
+15309,653e3f2c65374d699ab4fe8716aadb4b,false,Computer Programming
+15310,60dd3867c0e946acbe3fcba0b9f33980,false,Learn Programming
+15311,b7c80e71a03e4d64a2b0c7403465db63,false,Advanced Programming
+15312,50bc98fe69744bf09c6c2f15c2b6cc16,false,Programming Course
+15313,2ee1e270f2cc4482a6ad7c5360ce8fb6,false,Programming Tutorial
+15314,d6a9f5e123b34b368bea67a0ee3794ed,false,Programming Tips
+15315,25f49298921547b79a32afd21ba9ee9b,false,Math for programming
+49,e590d8ca6e2647ef831fc3989b209748,true,API Development Principles
+16,4cfd756632794b79bc6e0edb37c50726,true,Windows Desktop Applications
+45,b608274364f74d3ca89f865152124eb7,true,Deep Learning Concepts

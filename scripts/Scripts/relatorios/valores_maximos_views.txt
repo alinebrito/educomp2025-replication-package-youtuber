@@ -1,0 +1,10 @@
+Linguagem: C, Máximo: 144560201.00, Mediana: 69030.00
+Linguagem: JAVASCRIPT, Máximo: 1454266.00, Mediana: 8190.00
+Linguagem: JAVA, Máximo: 511687.00, Mediana: 8964.00
+Linguagem: RUBY, Máximo: 11937790.00, Mediana: 37368.00
+Linguagem: PYTHON, Máximo: 16064569.00, Mediana: 33326.00
+Linguagem: PHP, Máximo: 9161543.00, Mediana: 11688.00
+Linguagem: TYPESCRIPT, Máximo: 42271100.00, Mediana: 63091.00
+Linguagem: SHELL, Máximo: 2429537.00, Mediana: 12449.00
+Linguagem: CPP, Máximo: 23846220.00, Mediana: 19719.50
+Linguagem: CSHARP, Máximo: 4099780.00, Mediana: 23880.00

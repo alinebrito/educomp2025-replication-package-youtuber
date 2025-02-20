@@ -1,0 +1,24 @@
+Script iniciado com sucesso.
+Data e hora da execucao: 2023-12-08 18:11:04.895551
+Ocorrencia de Linguagens de Programacao em videos do YouTube (Distintos):
+PYTHON: 3957
+C: 2936
+JAVA: 2656
+JAVASCRIPT: 1046
+PHP: 607
+TYPESCRIPT: 240
+SHELL: 168
+RUBY: 84
+CSHARP: 46
+CPP: 25
+Ocorrencia de Linguagens de Programacao em videos do YouTube (Totais):
+PYTHON: 14728
+C: 12891
+JAVA: 8757
+JAVASCRIPT: 3014
+PHP: 1836
+TYPESCRIPT: 593
+SHELL: 540
+RUBY: 255
+CSHARP: 124
+CPP: 67

@@ -1,0 +1,14 @@
+Script iniciado com sucesso.
+Data e hora da execucao: 2023-12-12 14:24:44.121074
+Minimo Top 25%: 0.00
+Maximo Top 25%: 78.00
+Mediana Top 25%: 15.00
+Minimo Bottom 25%: 0.00
+Maximo Bottom 25%: 74.00
+Mediana Bottom 25%: 4.00
+U Statistic (Tags): 87237116.00
+P-Value (Tags): 0.0000
+Resultado (Tags): Significativo
+Tempo de inicio: 2023-12-12 14:24:34.704385
+Tempo de fim: 2023-12-12 14:24:44.120072
+Duracao da execucao: 9.42 segundos
