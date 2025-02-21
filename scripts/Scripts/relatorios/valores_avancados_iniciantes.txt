@@ -1,0 +1,40 @@
+Linguagem: PYTHON
+Iniciantes: 1048
+Avancados: 106
+
+Linguagem: C
+Iniciantes: 412
+Avancados: 105
+
+Linguagem: JAVA
+Iniciantes: 382
+Avancados: 110
+
+Linguagem: JAVASCRIPT
+Iniciantes: 157
+Avancados: 17
+
+Linguagem: PHP
+Iniciantes: 62
+Avancados: 8
+
+Linguagem: TYPESCRIPT
+Iniciantes: 19
+Avancados: 4
+
+Linguagem: SHELL
+Iniciantes: 20
+Avancados: 2
+
+Linguagem: RUBY
+Iniciantes: 11
+Avancados: 2
+
+Linguagem: CSHARP
+Iniciantes: 3
+Avancados: 1
+
+Linguagem: CPP
+Iniciantes: 2
+Avancados: 1
+

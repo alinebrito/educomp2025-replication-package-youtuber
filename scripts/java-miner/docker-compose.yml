@@ -1,0 +1,45 @@
+version: "3.8"
+
+services:
+  #DATABASE
+  database:
+    container_name: database_youtube_miner
+    image: postgres:14.1
+    networks:
+      - youtube_miner_net
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_DB=${POSTGRES_DB}
+    volumes:
+      - database_youtube_miner:/var/lib/postgresql
+      - database_youtube_miner_data:/var/lib/postgresql/data
+
+  miner:
+    container_name: youtube_miner
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    depends_on:
+      - database
+    networks:
+      - youtube_miner_net
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://database:5432/${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_DB=${POSTGRES_DB}
+      - PROGRAMMING_LANGUAGE_MINING_FLAG=${PROGRAMMING_LANGUAGE_MINING_FLAG}
+      - SEARCH_TERMS=${SEARCH_TERMS}
+      - VIDEO_AMOUNT=${VIDEO_AMOUNT}
+      - SPRING_PROFILES_ACTIVE=${SPRING_PROFILES_ACTIVE}
+
+networks:
+  youtube_miner_net:
+
+volumes:
+  database_youtube_miner:
+  database_youtube_miner_data:
+

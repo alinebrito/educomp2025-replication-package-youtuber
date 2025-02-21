@@ -1,0 +1,5 @@
+python-decouple
+psycopg2
+matplotlib
+pandas
+seaborn

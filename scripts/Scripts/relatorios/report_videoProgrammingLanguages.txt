@@ -1,0 +1,6 @@
+Script executado com sucesso.
+Data e hora da execução: 2023-11-18 12:21:11.365236
+Tempo de início: 2023-11-18 12:12:08.856590
+Tempo de fim: 2023-11-18 12:21:11.365237
+Duração da execução: 542.51 segundos
+Número de registros processados: 182202

@@ -1,0 +1,8 @@
+Script iniciado com sucesso.
+Data e hora do inicio da execucao: 2023-12-11 15:23:35.162203
+Tempo de inicio: 2023-12-11 15:23:31.983311
+Tempo de fim: 2023-12-11 15:23:35.162203
+Duracao da execucao: 3.18 segundos
+Numero de Videos Totais: 182202
+Numero de Videos Distintos: 45822
+Numero de Videos Repetidos: 136380
